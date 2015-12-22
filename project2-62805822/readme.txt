@@ -1,3 +1,8 @@
+This project is a Corpus Calculator which is used to calculate the probability of sentences from a sample of corpus.
+Further details of the implementation can be found in the Report along with the problem statement in HW2.pdf 
+
+Details on setting up and running the MapReduce jobs on the pseudo-distributed node on a local system have been discuss below
+
 Following are the instructions that I followed to run the MapReduce job 
 
 ------------------------------------
